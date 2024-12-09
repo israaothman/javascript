@@ -28,6 +28,6 @@ test1
 ![flower](https://m.media-amazon.com/images/I/61mMytOBsJL._AC_SL1024_.jpg)
 
 	| Syntax    | Description |  
-  | --------- | ----------- |  
-  | Header    | Title       |  
-  | Paragraph | Text        |  
+    | --------- | ----------- |  
+    | Header    | Title       |  
+    | Paragraph | Text        |  
